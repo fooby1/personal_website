@@ -1,0 +1,79 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Brankic Social Media Widget"
+msgstr ""
+
+#. Short description.
+msgid "Social media icons with nice hover vertical animation"
+msgstr ""
+
+#. Screenshot description.
+msgid "Example 1"
+msgstr ""
+
+#. Screenshot description.
+msgid "Example 2"
+msgstr ""
+
+#. Screenshot description.
+msgid "Example 3"
+msgstr ""
+
+#. Screenshot description.
+msgid "Widget admin"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Social media inline icons with nice hover effect (vertical slide with color change). 49 icons included (aim, apple, behnace, blogger, cargo, delicious, deviantart, digg, dopple, dribbble, \n"
+"ember, evernote, facebook, flickr, forrst, github, google, googleplus, gowalla, grooveshark, html5, icloud, lastfm, linkedin, metacafe, mixx, myspace,\n"
+"netvibes, newsvine, orkut, paypal, picasa, pinterest, plurk, posterous, reddit, rss, skype, stumbleupon, techorati, tumblr, twitter, vimeo, wordpress, yahoo,\n"
+"yelp, youtube, zerply, zootool) \n"
+"Live demo you can see in footer <a href=\"http://demo.brankic.net/bigbangwp/2012/07/divinum-dare-humanum-accipere/\" title=\"Our demo site\">of our demo site</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload bra_social_media.zip to plugins, like any other plugin, or upload unzipped folder bra_social_media to wp-content/plugins/"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Widgets and use Brankic Social Media Widget in sidebar you want"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "This section describes how to install the plugin and get it working."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "houzz, instagram and email icon added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New plugin constructor (for PHP5)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "jQuery backgound color selector"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added screenshots"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some CSS fixes, and backgound color selector"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq list item.
+msgid "for any questions, error report and suggestions please email support@brankic.net or visit http://www.brankic1979.com"
+msgstr ""

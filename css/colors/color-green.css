@@ -1,0 +1,148 @@
+blockquote.color {
+	background: #6BD67C;
+}
+a { 
+	color: #6BD67C;
+}
+.dark a {
+	color: #6BD67C;
+}
+.timer{
+	color: #6BD67C;
+}
+.button.default_color { background-color:#6BD67C; }
+.content.alternate.default_color {
+	background-color: #6BD67C;
+}
+.parallax.default_color {
+	background-color: #6BD67C;
+}
+.parallax.default_color .item-mask {
+	background-color: #6BD67C;
+}
+.parallax .parallax.default_color, .parallax .content.alternate.default_color {
+	background-color: rgba(107, 214, 124, 0.9);
+}
+.menu li a:hover, .menu li a.active {
+	color: #6BD67C;
+}
+.no-touch .menu li a:hover, .no-touch .menu li a.active {
+	color: #6BD67C;
+}
+#mobile-menu ul li a:hover, #mobile-menu ul li a.active {color: #6BD67C;}
+.photostream a .item-mask:hover {background-color: #6BD67C;}
+.team-member-info.default_color {
+	background-color: rgba(107, 214, 124, 0.9);
+}
+.skills-graph li span {
+	background-color: #6BD67C;
+}
+.boxed.default_color { background-color: #6BD67C; }
+.highlight1 { background-color: #6BD67C; }
+.grey:hover, .content.alternate .grey:hover, .content.alternate.dark .grey:hover, .parallax.default_color .grey:hover { background-color:#6BD67C; }
+.content.alternate.default_color .button-group .button:first-child { border-right: 1px solid #6BD67C; }
+.pricing-table .featured {
+    background-color: #6BD67C;
+}
+.pricing-table .featured .price:after, .content.alternate.dark .pricing-table .featured .price:after {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #6BD67C;
+}
+.tab-menu a.tabs-active, .content.alternate .tab-menu a.tabs-active, .content.alternate.dark .tab-menu a.tabs-active { background-color: #6BD67C; }
+.item-info-overlay {
+	background-color: rgba(107, 214, 124, 0.9);
+}
+.parallax.default_color .post-nav li { border-right-color: #6BD67C;}
+.parallax.default_color .share li:first-child {
+	border-left-color: #6BD67C;
+}
+.post-nav-2 li:hover {
+	background-color: #6BD67C;
+}
+.tagcloud a:hover, .content.alternate .tagcloud a:hover, .content.alternate.dark .tagcloud a:hover, .widget .tagcloud a:hover  {
+	background-color: #6BD67C;
+	border: 1px solid #6BD67C;
+}
+.content.alternate.default_color .arrow.up { border-color: transparent transparent #6BD67C; }
+.content.alternate.default_color .arrow.down { border-color: #6BD67C transparent transparent; }
+.overlay { background: rgba(107, 214, 124, 0.9); }
+
+
+
+
+
+
+.widget a:hover {
+	color: #6BD67C;
+}
+.content.alternate.dark .widget ul li a:hover {
+	color: #6BD67C;
+}
+.blog-holder .post.alternate_color, .content.alternate .blog-holder .post.alternate_color, .parallax.default_color .blog-holder .post.alternate_color, .content.alternate.dark .blog-holder .post.alternate_color {
+	background-color: #6BD67C;
+}
+.post-meta a:hover {
+	color: #6BD67C;
+}
+.content.alternate.dark .post-meta a:hover {
+	color: #6BD67C;
+}
+.post-date li a:hover, .post-date li.comments:hover:before {
+	color: #6BD67C;
+}
+.content.alternate.dark .post-date li a:hover {
+	color: #6BD67C;
+}
+.wp-pagenavi a:hover, .content.alternate .wp-pagenavi a:hover, .content.alternate.dark .wp-pagenavi a:hover {
+	background-color: #6BD67C;
+	border: 1px solid #6BD67C;
+}
+.comment .author a:hover, .comment .children .author a:hover {
+	color: #6BD67C;
+}
+.comment .reply:hover {
+	background-color:#6BD67C;
+}
+.comment .children .comment-meta .reply:hover {
+	background-color:#6BD67C;
+}
+
+
+
+
+
+
+.full-icon.default_color {
+  	background-color: #6BD67C;
+  	box-shadow: 0 0 0 2px #6BD67C inset;
+}
+.full-icon.default_color:hover, .full-icon.default_color:hover a {
+	color: #6BD67C;
+}
+.border-icon.default_color {
+  	box-shadow: 0 0 0 2px #6BD67C inset;
+  	color: #6BD67C;
+}
+.border-icon.default_color:hover {
+    background-color: #6BD67C;
+  	box-shadow: 0 0 0 2px #6BD67C inset;
+}
+.border-icon.default_color a {
+  	color: #6BD67C;
+}
+.parallax.default_color .border-icon.default_color:hover { color: #6BD67C; }
+.transparent.default_color, .parallax.default_color .transparent.default_color {
+  	color: #6BD67C;
+}
+#circle { background: #6BD67C; }
+
+
+
+
+
+
+div.jp-play-bar {
+	background-color: #6BD67C;
+}
+div.jp-volume-bar-value {
+	background-color: #6BD67C;
+}

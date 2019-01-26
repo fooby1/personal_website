@@ -1,0 +1,148 @@
+blockquote.color {
+	background-color: #de4942;
+}
+a { 
+	color: #de4942;
+}
+.dark a {
+	color: #de4942;
+}
+.timer{
+	color: #de4942;
+}
+.button.default_color { background-color:#de4942; }
+.content.alternate.default_color {
+	background-color: #de4942;
+}
+.parallax.default_color {
+	background-color: #de4942;
+}
+.parallax.default_color .item-mask {
+	background-color: #de4942;
+}
+.parallax .parallax.default_color, .parallax .content.alternate.default_color {
+	background-color: rgba(222, 73, 66, 0.93);
+}
+.menu li a:hover, .menu li a.active {
+	color: #de4942;
+}
+.no-touch .menu li a:hover, .no-touch .menu li a.active {
+	color: #de4942;
+}
+#mobile-menu ul li a:hover, #mobile-menu ul li a.active {color: #de4942;}
+.photostream a .item-mask:hover {background-color: #de4942;}
+.team-member-info.default_color {
+	background-color: rgba(222, 73, 66, 0.93);
+}
+.skills-graph li span {
+	background-color: #de4942;
+}
+.boxed.default_color { background-color: #de4942; }
+.highlight1 { background-color: #de4942; }
+.grey:hover, .content.alternate .grey:hover, .content.alternate.dark .grey:hover, .parallax.default_color .grey:hover { background-color:#de4942; }
+.content.alternate.default_color .button-group .button:first-child { border-right: 1px solid #de4942; }
+.pricing-table .featured {
+    background-color: #de4942;
+}
+.pricing-table .featured .price:after, .content.alternate.dark .pricing-table .featured .price:after {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #de4942;
+}
+.tab-menu a.tabs-active, .content.alternate .tab-menu a.tabs-active, .content.alternate.dark .tab-menu a.tabs-active { background-color: #de4942; }
+.item-info-overlay {
+	background-color: rgba(222, 73, 66, 0.9);
+}
+.parallax.default_color .post-nav li {	border-right-color: #de4942;}
+.parallax.default_color .share li:first-child {
+	border-left-color: #de4942;
+}
+.post-nav-2 li:hover {
+	background-color: #de4942;
+}
+.tagcloud a:hover, .content.alternate .tagcloud a:hover, .content.alternate.dark .tagcloud a:hover, .widget .tagcloud a:hover  {
+	background-color: #de4942;
+	border: 1px solid #de4942;
+}
+.content.alternate.default_color .arrow.up { border-color: transparent transparent #de4942; }
+.content.alternate.default_color .arrow.down { border-color: #de4942 transparent transparent; }
+.overlay { background: rgba(222, 73, 66, 0.9); }
+
+
+
+
+
+
+.widget a:hover {
+	color: #de4942;
+}
+.content.alternate.dark .widget ul li a:hover {
+	color: #de4942;
+}
+.blog-holder .post.alternate_color, .content.alternate .blog-holder .post.alternate_color, .parallax.default_color .blog-holder .post.alternate_color, .content.alternate.dark .blog-holder .post.alternate_color {
+	background-color: #de4942;
+}
+.post-meta a:hover {
+	color: #de4942;
+}
+.content.alternate.dark .post-meta a:hover {
+	color: #de4942;
+}
+.post-date li a:hover, .post-date li.comments:hover:before {
+	color: #de4942;
+}
+.content.alternate.dark .post-date li a:hover {
+	color: #de4942;
+}
+.wp-pagenavi a:hover, .content.alternate .wp-pagenavi a:hover, .content.alternate.dark .wp-pagenavi a:hover {
+	background-color: #de4942;
+	border: 1px solid #de4942;
+}
+.comment .author a:hover, .comment .children .author a:hover {
+	color: #de4942;
+}
+.comment .reply:hover {
+	background-color:#de4942;
+}
+.comment .children .comment-meta .reply:hover {
+	background-color:#de4942;
+}
+
+
+
+
+
+
+.full-icon.default_color {
+  	background-color: #de4942;
+  	box-shadow: 0 0 0 2px #de4942 inset;
+}
+.full-icon.default_color:hover, .full-icon.default_color:hover a {
+	color: #de4942;
+}
+.border-icon.default_color {
+  	box-shadow: 0 0 0 2px #de4942 inset;
+  	color: #de4942;
+}
+.border-icon.default_color:hover {
+    background-color: #de4942;
+  	box-shadow: 0 0 0 2px #de4942 inset;
+}
+.border-icon.default_color a {
+  	color: #de4942;
+}
+.parallax.default_color .border-icon.default_color:hover { color: #de4942; }
+.transparent.default_color, .parallax.default_color .transparent.default_color {
+  	color: #de4942;
+}
+#circle { background: #de4942; }
+
+
+
+
+
+
+div.jp-play-bar {
+	background-color: #de4942;
+}
+div.jp-volume-bar-value {
+	background-color: #de4942;
+}
